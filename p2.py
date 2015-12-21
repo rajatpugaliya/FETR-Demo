@@ -21,4 +21,4 @@ print ans
 print ('addition of two number {0} and {1} is {2}'.format(a,b,ans[0]))
 print ('sub of two number {0} and {1} is {2}'.format(a,b,ans[1]))
 print ('mul of two number {0} and {1} is {2}'.format(a,b,ans[2]))
-print ('Div of two number {0} and {1} is {2}'.format(a,b,ans[3]))
+print ('Div of two number {0} and {1} is {2}'.format(a,b,ans[3]))asdasd
